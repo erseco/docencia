@@ -15,7 +15,7 @@
 3. Enviar los ejercicios por e-mail a la dirección indicada
 4. Realizar la encuesta: https://forms.gle/zbJYWVD8au6bKYSK6
 
-# Competencias
+# Competencias
 
 - Búsqueda en internet
 - Autoaprendizaje
