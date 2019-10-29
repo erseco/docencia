@@ -11,7 +11,7 @@
 7. Enviar el documento LibreOffice Writer por e-mail a la dirección indicada
 8. Realizar la encuesta: https://forms.gle/zbJYWVD8au6bKYSK6
 
-# Competencias
+# Competencias
 
 - Búsqueda de información
 - Autoaprendizaje
